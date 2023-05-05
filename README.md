@@ -22,14 +22,14 @@
   "tracks": [
     {
 
-      "name": "Track Nameкпук",
+      "name": "Fly",
       "artist": "Artist Name",
       "trackNumber": 1,
       "duration": 180
     },
     {
       
-      "name": "Track Name укпуу",
+      "name": "Track Name",
       "artist": "Artist Name",
       "trackNumber": 2,
       "duration": 200
